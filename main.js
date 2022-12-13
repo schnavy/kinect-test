@@ -1,4 +1,4 @@
-let kinectron = new Kinectron("172.20.10.4");
+let kinectron = new Kinectron("77184d648920.ngrok.io");
 kinectron.setKinectType("windows");
 kinectron.makeConnection();
 
